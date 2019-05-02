@@ -1,7 +1,7 @@
 {
 
 	"resultado":{
-		"data":{[
+		"data":[{
 		"street": "MONERA",
 
 		 "outsideNumber": "24",
@@ -14,9 +14,9 @@
 
 		 "length": -99.1717284,
 
-		 "referenceStreet": "NINGUNA"],
+		 "referenceStreet": "NINGUNA"},
      
-		"street": "FLOR DE DURAZNO",
+			{"street": "FLOR DE DURAZNO",
 
 		 "outsideNumber": "5",
 
@@ -28,9 +28,9 @@
 
 		 "length": -99.1722152,
 
-		 "referenceStreet": "NINGUNA"],
+		 "referenceStreet": "NINGUNA"}],
      
-		},
+		,
 		"codeHttpStatus": 200,
  		 "messageError": ""
 
