@@ -1,0 +1,39 @@
+{
+
+	"resultado":{
+		"data":{[
+		"street": "MONERA",
+
+		 "outsideNumber": "24",
+
+		 "insideNumber": "32",
+
+		 "idColony": 12345,
+
+		 "latitude": 19.3950477,
+
+		 "length": -99.1717284,
+
+		 "referenceStreet": "NINGUNA"],
+     
+		"street": "FLOR DE DURAZNO",
+
+		 "outsideNumber": "5",
+
+		 "insideNumber": "12",
+
+		 "idColony": 12345,
+
+		 "latitude": 19.3965429,
+
+		 "length": -99.1722152,
+
+		 "referenceStreet": "NINGUNA"],
+     
+		},
+		"codeHttpStatus": 200,
+ 		 "messageError": ""
+
+	}
+}
+ 
